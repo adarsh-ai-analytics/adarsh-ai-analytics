@@ -1,126 +1,152 @@
-<h1 align="center">Hi 👋, I'm Adarsh Shandilya</h1>
+<div align="center">
 
-<h3 align="center">
-Data Analyst | SQL | Power BI | Python | Excel
-</h3>
+# 👋 Hi, I'm Adarsh Shandilya
 
-<p align="center">
-Turning Raw Data into Actionable Business Insights
+### 📊 Data Analyst | SQL • Power BI • Python • Excel
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Business+Insights;Power+BI+Dashboard+Developer;SQL+%7C+Python+%7C+Excel;Data+Analytics+Enthusiast;Always+Learning+%F0%9F%9A%80"/>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=adarsh-ai-analytics&style=for-the-badge&color=0e75b6)
+
+<a href="www.linkedin.com/in/adarsh-shandilya-bfsi-analystL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shandilyaadarsh10@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💡 About Me
+
+```yaml
+Name: Adarsh Shandilya
+
+Role: Data Analyst
+
+Location: Noida, India
+
+Experience:
+  - Data Analyst Trainee @ Cetpa Infotech Pvt. Ltd.
+
+Focus:
+  - Data Analytics
+  - Business Intelligence
+  - Dashboard Development
+  - SQL Query Optimization
+
+Currently Learning:
+  - Advanced SQL
+  - Advanced Power BI
+  - Machine Learning Fundamentals
+```
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Languages & Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,vscode"/>
+
+</p>
+
+### 📊 Analytics Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DAX-005CA5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power%20Query-00B050?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 Featured Projects
 
-I'm a passionate **Data Analyst** with hands-on experience in SQL, Power BI, Python (Pandas), and Advanced Excel.
-
-I enjoy cleaning data, building dashboards, analyzing business performance, and solving real-world business problems using data.
-
-- 📊 Data Analytics
-- 📈 Dashboard Development
-- 🗄 SQL Query Optimization
-- 🐍 Python for Data Analysis
-- 📉 Exploratory Data Analysis (EDA)
-- 📍 Noida, India
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 📊 Finance Analytics Dashboard | Interactive dashboard to analyze revenue, profit, taxes, transactions and financial KPIs | Power BI, Excel |
+| 🚤 Boat Sales Analytics Dashboard | Sales performance analysis, customer segmentation, KPI tracking and business insights | Power BI, SQL |
+| 📈 Excel Sales Dashboard | Dynamic dashboard using Pivot Tables, Power Query and Charts | Excel |
+| 🗄 SQL Business Case Studies | Business problems solved using Joins, CTEs, Window Functions and Aggregations | SQL |
+| 🐍 Python Data Analysis | Data Cleaning, EDA and Visualization using Pandas & Matplotlib | Python |
 
 ---
 
-## 🛠 Tech Stack
+# 📈 GitHub Analytics
 
-### Languages
+<p align="center">
 
-- SQL
-- Python
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adarsh-ai-analytics&show_icons=true&theme=transparent&hide_border=true"/>
 
-### BI & Analytics
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-ai-analytics&layout=compact&theme=transparent&hide_border=true"/>
 
-- Power BI
-- DAX
-- Power Query
-- Advanced Excel
+</p>
 
-### Python Libraries
+<p align="center">
 
-- Pandas
-- NumPy
-- Matplotlib
+<img src="https://streak-stats.demolab.com?user=adarsh-ai-analytics&theme=transparent&hide_border=true"/>
 
-### Database
-
-- MySQL
-- PostgreSQL
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 📚 Certifications
 
-### 📊 Finance Analytics Dashboard
-
-Interactive Power BI dashboard to monitor revenue, profit, taxes, transactions and business performance.
-
----
-
-### 🚤 Boat Sales Analytics Dashboard
-
-- 12,000+ Customers
-- 22,000+ Orders
-- ₹135M+ Revenue
-- Customer Segmentation
-- Sales Performance Analysis
+- 🎓 Master in Data Science & Business Intelligence – Cetpa Infotech Pvt. Ltd.
+- 📊 Power BI Essential Training – IBM
+- 🐍 The Complete Python Bootcamp – Udemy
+- 📑 Advanced Excel Training – Learn More
 
 ---
 
-### 📈 Excel Sales Dashboard
-
-Business dashboard using Pivot Tables, Power Query and Charts.
-
----
-
-### 🗄 SQL Business Analysis
-
-Real-world SQL case studies involving joins, CTEs, window functions and business reporting.
-
----
-
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=adarsh-ai-analytics&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-ai-analytics&layout=compact&theme=transparent)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=adarsh-ai-analytics&theme=transparent)
-
----
-
-## 📚 Currently Learning
+# 🌱 Currently Learning
 
 - Advanced SQL
-- Power BI
+- Advanced DAX
+- Machine Learning
 - Data Storytelling
-- Statistics
-- Machine Learning Fundamentals
+- Cloud Fundamentals
 
 ---
 
-## 🤝 Connect With Me
+# 📫 Connect With Me
 
-📧 Email: **shandilyaadarsh10@gmail.com**
+📧 **Email**
 
-💼 LinkedIn:
+**shandilyaadarsh10@gmail.com**
+
+💼 **LinkedIn**
+
 www.linkedin.com/in/adarsh-shandilya-bfsi-analyst
 
 ---
 
-> *"Without data, you're just another person with an opinion."*  
-> **— W. Edwards Deming**
+<div align="center">
+
+### ⭐ "Transforming Data into Business Insights"
+
+Thanks for visiting my GitHub Profile!
+
+</div>
