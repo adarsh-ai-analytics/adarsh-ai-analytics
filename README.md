@@ -1,122 +1,126 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Adarsh Shandilya</h1>
 
-# 👋 Hi, I'm Adarsh Shandilya
+<h3 align="center">
+Data Analyst | SQL | Power BI | Python | Excel
+</h3>
 
-### Data Analyst | SQL • Power BI • Excel • Python
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+into+Business+Insights;Power+BI+Dashboard+Developer;SQL+%7C+Excel+%7C+Python;Aspiring+Machine+Learning+Engineer" alt="Typing SVG" />
-
-<p>
-  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="center">
+Turning Raw Data into Actionable Business Insights
 </p>
-
-</div>
 
 ---
 
-## 💡 About Me
+## 👨‍💻 About Me
 
-I'm a **Data Analyst** passionate about transforming raw data into meaningful insights that support business decisions.
+I'm a passionate **Data Analyst** with hands-on experience in SQL, Power BI, Python (Pandas), and Advanced Excel.
 
-I enjoy solving business problems using **SQL, Power BI, Excel, and Python**, and I'm continuously improving my analytical and visualization skills by building real-world projects.
+I enjoy cleaning data, building dashboards, analyzing business performance, and solving real-world business problems using data.
 
-- 📊 Focused on Business Intelligence & Data Analytics
-- 📈 Creating interactive Power BI dashboards
-- 🗄️ Writing optimized SQL queries
-- 🐍 Exploring data with Python (Pandas & NumPy)
-- 🌱 Currently learning Machine Learning & Cloud
-- 🎯 Seeking Data Analyst opportunities
+- 📊 Data Analytics
+- 📈 Dashboard Development
+- 🗄 SQL Query Optimization
+- 🐍 Python for Data Analysis
+- 📉 Exploratory Data Analysis (EDA)
+- 📍 Noida, India
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages & Tools
+### Languages
 
-<p align="left">
+- SQL
+- Python
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+### BI & Analytics
 
-</p>
+- Power BI
+- DAX
+- Power Query
+- Advanced Excel
 
-<p>
+### Python Libraries
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+- Pandas
+- NumPy
+- Matplotlib
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+### Database
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+- MySQL
+- PostgreSQL
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+### Tools
 
-<img src="https://img.shields.io/badge/DAX-005CA5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power%20Query-00B050?style=for-the-badge"/>
-
-</p>
-
----
-
-## 📌 Featured Projects
-
-| Project | Tools |
-|---------|------|
-| 📊 Finance Analytics Dashboard | Power BI, Excel |
-| 🚤 Boat Sales Analytics Dashboard | Power BI |
-| 📈 Sales Dashboard | Excel |
-| 🗄 SQL Business Case Studies | SQL |
-| 🐍 Python Data Analysis & EDA | Python |
-
-> More projects are continuously being added as I learn and build.
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
 
 ---
 
-## 📈 GitHub Analytics
+## 🚀 Featured Projects
 
-<p align="center">
+### 📊 Finance Analytics Dashboard
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adarsh-ai-analytics&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-ai-analytics&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
+Interactive Power BI dashboard to monitor revenue, profit, taxes, transactions and business performance.
 
 ---
 
-## 🔥 Contribution Streak
+### 🚤 Boat Sales Analytics Dashboard
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=adarsh-ai-analytics&theme=transparent&hide_border=true"/>
-
-</p>
+- 12,000+ Customers
+- 22,000+ Orders
+- ₹135M+ Revenue
+- Customer Segmentation
+- Sales Performance Analysis
 
 ---
 
-## 🎯 Current Learning
+### 📈 Excel Sales Dashboard
+
+Business dashboard using Pivot Tables, Power Query and Charts.
+
+---
+
+### 🗄 SQL Business Analysis
+
+Real-world SQL case studies involving joins, CTEs, window functions and business reporting.
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=adarsh-ai-analytics&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-ai-analytics&layout=compact&theme=transparent)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=adarsh-ai-analytics&theme=transparent)
+
+---
+
+## 📚 Currently Learning
 
 - Advanced SQL
-- Machine Learning
-- Cloud Fundamentals
-- Advanced DAX
-- Statistics for Data Analytics
+- Power BI
+- Data Storytelling
+- Statistics
+- Machine Learning Fundamentals
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Connect With Me
 
-- 💼 LinkedIn → www.linkedin.com/in/adarsh-shandilya-bfsi-analyst
-- 📧 Email → Shandilyaadarsh10@gmail.com 
+📧 Email: **shandilyaadarsh10@gmail.com**
+
+💼 LinkedIn:
+www.linkedin.com/in/adarsh-shandilya-bfsi-analyst
 
 ---
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=adarsh-ai-analytics&label=Profile+Views&color=0e75b6&style=flat)
-
-### ⭐ Thanks for visiting my profile!
-
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming
-
-</div>
+> *"Without data, you're just another person with an opinion."*  
+> **— W. Edwards Deming**
